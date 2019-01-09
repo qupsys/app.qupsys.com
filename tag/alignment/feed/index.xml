@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>alignment &#8211; quPSYS</title>
+	<atom:link href="/tag/alignment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Network &#124; Security &#124; Infrastructure &#124; Linux</description>
+	<lastBuildDate>Wed, 12 Dec 2018 16:56:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/08/cropped-favicon-quPSYS-32x32.png</url>
+	<title>alignment &#8211; quPSYS</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">155705693</site>	<item>
+		<title>Markup: Text Alignment</title>
+		<link>/markup-text-alignment/</link>
+		<comments>/markup-text-alignment/#respond</comments>
+		<pubDate>Fri, 12 Feb 2016 08:27:17 +0000</pubDate>
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+				<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[markup]]></category>
+
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?p=33</guid>
+		<description><![CDATA[<p>Default This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free ...</p>
+<p>The post <a rel="nofollow" href="/markup-text-alignment/">Markup: Text Alignment</a> appeared first on <a rel="nofollow" href="/">quPSYS</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h3><img class="alignnone wp-image-35 size-full" src="/wp-content/uploads/2016/02/blog4.jpg" alt="blog4" width="1280" height="853" srcset="/wp-content/uploads/2016/02/blog4.jpg 1280w, /wp-content/uploads/2016/02/blog4-300x200.jpg 300w, /wp-content/uploads/2016/02/blog4-768x512.jpg 768w, /wp-content/uploads/2016/02/blog4-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></h3>
+<h3>Default</h3>
+<p>This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way. Trust me.</p>
+<h3>Left Align</h3>
+<p style="text-align: left;">This is a paragraph. It is left aligned. Because of this, it is a bit more liberal in it&#8217;s views. It&#8217;s favorite color is green. Left align tends to be more eco-friendly, but it provides no concrete evidence that it really is. Even though it likes share the wealth evenly, it leaves the equal distribution up to justified alignment.</p>
+<h3>Center Align</h3>
+<p style="text-align: center;">This is a paragraph. It is center aligned. Center is, but nature, a fence sitter. A flip flopper. It has a difficult time making up its mind. It wants to pick a side. Really, it does. It has the best intentions, but it tends to complicate matters more than help. The best you can do is try to win it over and hope for the best. I hear center align does take bribes.</p>
+<h3>Right Align</h3>
+<p style="text-align: right;">This is a paragraph. It is right aligned. It is a bit more conservative in it&#8217;s views. It&#8217;s prefers to not be told what to do or how to do it. Right align totally owns a slew of guns and loves to head to the range for some practice. Which is cool and all. I mean, it&#8217;s a pretty good shot from at least four or five football fields away. Dead on. So boss.</p>
+<h3>Justify Align</h3>
+<p style="text-align: justify;">This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it&#8217;s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.</p>
+<p>The post <a rel="nofollow" href="/markup-text-alignment/">Markup: Text Alignment</a> appeared first on <a rel="nofollow" href="/">quPSYS</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/markup-text-alignment/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">33</post-id>	</item>
+		<item>
+		<title>Markup: Image Alignment</title>
+		<link>/markup-image-alignment/</link>
+		<pubDate>Fri, 11 Jan 2013 03:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+				<category><![CDATA[Markup]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[captions]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[markup]]></category>
+
+		<guid isPermaLink="false">http://wptest.io/demo/?p=903</guid>
+		<description><![CDATA[<p>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab ...</p>
+<p>The post <a rel="nofollow" href="/markup-image-alignment/">Markup: Image Alignment</a> appeared first on <a rel="nofollow" href="/">quPSYS</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let&#8217;s get started.</p>
+<p>On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.</p>
+<p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-580x300.jpg" alt="Image Alignment 580x300" width="580" height="300" /></p>
+<p>The image above happens to be <em><strong>centered</strong></em>.</p>
+<p><strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>.</p>
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
+<p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
+<p><img class="alignnone wp-image-907" title="Image Alignment 1200x400" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" alt="Image Alignment 1200x400" width="1200" height="400" /></p>
+<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
+<p><img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-300x200.jpg" alt="Image Alignment 300x200" width="300" height="200" /></p>
+<p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
+<p>And just when you thought we were done, we&#8217;re going to do them all over again with captions!</p>
+<figure id="attachment_906" style="max-width: 580px" class="wp-caption aligncenter"><img class="size-full wp-image-906 " title="Image Alignment 580x300" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-580x300.jpg" alt="Image Alignment 580x300" width="580" height="300" /><figcaption class="wp-caption-text">Look at 580&#215;300 getting some <a title="Image Settings" href="http://en.support.wordpress.com/images/image-settings/">caption</a> love.</figcaption></figure>
+<p>The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.</p>
+<figure id="attachment_904" style="max-width: 150px" class="wp-caption alignleft"><img class="size-full wp-image-904 " title="Image Alignment 150x150" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" width="150" height="150" /><figcaption class="wp-caption-text">Itty-bitty caption.</figcaption></figure>
+<p>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>.</p>
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
+<p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
+<figure id="attachment_907" style="max-width: 1200px" class="wp-caption alignnone"><img class=" wp-image-907" title="Image Alignment 1200x400" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" alt="Image Alignment 1200x400" width="1200" height="400" /><figcaption class="wp-caption-text">Massive image comment for your eyeballs.</figcaption></figure>
+<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
+<figure id="attachment_905" style="max-width: 300px" class="wp-caption alignright"><img class="size-full wp-image-905 " title="Image Alignment 300x200" src="http://demo.famethemes.com/onepress/wp-content/uploads/2013/03/image-alignment-300x200.jpg" alt="Image Alignment 300x200" width="300" height="200" /><figcaption class="wp-caption-text">Feels good to be right all the time.</figcaption></figure>
+<p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
+<p>And that&#8217;s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>
+<p>The post <a rel="nofollow" href="/markup-image-alignment/">Markup: Image Alignment</a> appeared first on <a rel="nofollow" href="/">quPSYS</a>.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1177</post-id>	</item>
+	</channel>
+</rss>
